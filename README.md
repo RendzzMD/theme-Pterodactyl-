@@ -1,7 +1,13 @@
-https://files.catbox.moe/i0hwt5.jpg
+# 🎉 HI EVERYONE 👋
 
-EN 
-HI 👋 EVERYONE THANK YOU FOR USING THIS SCRIPT 
+Terima kasih sudah menggunakan script ini!
 
-SUBSCRIBE MY CHANNEL : https://youtube.com/renmodz45
+---
 
+## 📺 Subscribe Channel
+[Renmodz45](https://youtube.com/renmodz45)
+
+---
+
+## 🖼 Thumbnail
+![Thumbnail](https://files.catbox.moe/i0hwt5.jpg)
